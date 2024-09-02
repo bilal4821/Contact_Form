@@ -8320,7 +8320,7 @@ background-color: aliceblue; }
 /* From Uiverse.io by iZOXVL */ 
 .boton-elegante {
   padding: 6px 6px;
-  border: 2px solid var(--gray);
+  border: 2px solid #79b9ff;
   background-color: #007bff;
   /* background-color: #1a1a1a; */
   color: #ffffff;

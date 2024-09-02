@@ -15,3 +15,10 @@ window.onload = function() {
             });
     });
 }
+
+$(document).ready(function(){
+    $(".boton-elegante").click(function(){
+        alert("Message Send Successfully");
+
+    });
+});
