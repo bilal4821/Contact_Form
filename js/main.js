@@ -9,9 +9,9 @@ window.onload = function() {
         event.preventDefault();
         emailjs.sendForm('service_yo5r7hu', 'contact_form_go2gp0b', this)
             .then(() => {
-                console.log('SUCCESS!');
+                // console.log('SUCCESS!');
             }, (error) => {
-                console.log('FAILED...', error);
+                // console.log('FAILED...', error);
             });
     });
 }
