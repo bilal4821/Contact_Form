@@ -1,0 +1,17 @@
+.container{
+    padding-top: 13%;
+}
+
+.row{
+    border: 6px solid lightseagreen;
+    box-shadow: 4px 8px 6px 5px rgb(110, 109, 109);
+    position: absolute;
+    left: 630px;
+}
+
+.button{
+    background-color: #8fb2dd;
+}
+.button:hover{
+    background-color: #4f8dd8;
+}
