@@ -19,4 +19,4 @@ Simple contact form where user can fill the form and then click on submit the da
 - After submission, users receive a confirmation message, indicating that their form has been successfully sent to the author.
 
 ## Preview 
-![alt text](preview-1.PNG)
+![alt text](preview.PNG)
